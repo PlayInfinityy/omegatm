@@ -35,7 +35,7 @@ $(document).ready(() => {
     {
       name: 'yLuvly',
       link : 'yluvly',
-    }
+    },
     {   
       name: 'API',
       link: 'apieqq',

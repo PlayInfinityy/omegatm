@@ -34,7 +34,7 @@ $(document).ready(() => {
      },
     {
       name: 'yLuvly',
-      link : 'yluvly',
+      link: 'yluvly',
     },
     {   
       name: 'API',

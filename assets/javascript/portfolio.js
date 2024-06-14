@@ -21,8 +21,8 @@ $(document).ready(() => {
       link: '',
     },
     {
-      name: 'Cryx'
-      linkL '',
+      name: 'Cryx',
+      link: '',
     },
     {
       name: 'BattlEye',

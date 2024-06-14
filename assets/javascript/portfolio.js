@@ -32,6 +32,10 @@ $(document).ready(() => {
       name: 'Paradox',
       link: 'zeemonzh',
      },
+    {
+      name: 'yLuvly',
+      link : 'yluvly',
+    }
     {   
       name: 'API',
       link: 'apieqq',

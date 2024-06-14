@@ -13,6 +13,18 @@ $(document).ready(() => {
       link: 'realomegatm',
       },
     {
+      name: 'Solar',
+      link: '',
+    },
+    {
+      name: 'Kitty',
+      link: '',
+    },
+    {
+      name: 'Cryx'
+      linkL '',
+    },
+    {
       name: 'BattlEye',
       link: 'FiruxTM',
     },

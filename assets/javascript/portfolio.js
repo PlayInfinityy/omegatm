@@ -13,14 +13,6 @@ $(document).ready(() => {
       link: 'realomegatm',
       },
     {
-      name: 'Kimbogton',
-      link: '',
-      },
-    {
-      name: 'Zixington;,
-      link: '',
-      },
-    {
       name: 'Solar',
       link: '',
     },
@@ -39,6 +31,14 @@ $(document).ready(() => {
     {
       name: 'Casper',
       link: 'dotcasper',
+    },
+    {
+      name: 'Kimbo',
+      link: '',
+    },
+    {
+      name: 'Zix',
+      link: '',
     },
     {
       name: 'Keaton',

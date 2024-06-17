@@ -13,6 +13,14 @@ $(document).ready(() => {
       link: 'realomegatm',
       },
     {
+      name: 'Kimbogton',
+      link: '',
+      },
+    {
+      name: 'Zixington;,
+      link: '',
+      },
+    {
       name: 'Solar',
       link: '',
     },
